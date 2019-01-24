@@ -1,3 +1,4 @@
+<--the layout contains different parent and child layout. app for Dsc UI intro to android-->
 <layout>
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
